@@ -19,8 +19,8 @@
 </p>
 
 
-<p align="left" style="font-size: 50px;">
-  <img src="https://komarev.com/ghpvc/?username=ronaldomelo116&style=plastic&font-size=50&label=VISITANTES&color=007ec6" alt="Contador de visitantes" />
+<p align="left" width="250">
+  <img src="https://komarev.com/ghpvc/?username=ronaldomelo116&style=plastic&label=VISITANTES&color=007ec6" alt="Contador de visitantes" />
 </p>
 
 <!--![Contador de Visitas](https://komarev.com/ghpvc/?username=ronaldomelo116&style=for-the-badge&label=VISITANTES&color=007ec6)-->
