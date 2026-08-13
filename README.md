@@ -1,7 +1,7 @@
 <!-- 1. BOAS VINDAS E CONTADOR (No Topo) -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=0BFF00&width=435&lines=Bem+vindo+ao+meu+Reposit%C3%B3rio" alt="Typing SVG" /></a>
 
 <p align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=0BFF00&width=435&lines=Bem+vindo+ao+meu+Reposit%C3%B3rio" alt="Typing SVG" /></a>
   <img src="https://komarev.com/ghpvc/?username=ronaldomelo116&style=for-the-badge&label=VISITANTES&color=007ec6" width="150" alt="Contador de visitantes" />
 </p>
 
@@ -27,10 +27,6 @@
   <a href="https://youtube.com/@RonaldoMelloRN" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-</p>
-
-<p>
-<a href="https://raw.githubusercontent.com/marilliadantas/rafaballerini/d3f30def04ea191c98624aa171e012717a788122/github-contribution-grid-snake.svg" target="_blank">
 </p>
 
 
