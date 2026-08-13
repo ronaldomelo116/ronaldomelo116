@@ -22,8 +22,6 @@
   <img src="https://komarev.com/ghpvc/?username=ronaldomelo116&style=for-the-badge&label=VISITANTES&color=007ec6" width="150" alt="Contador de visitantes" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF9900&width=435&lines=Desenvolvedor+Full+Stack;Criando+soluções+inovadoras;Bem-vindo(a)+ao+meu+portfólio!" alt="Efeito de digitação" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=0BFF00&width=435&lines=Bem+vindo+ao+meu+Reposit%C3%B3rio" alt="Typing SVG" /></a>
 <!--![Contador de Visitas](https://komarev.com/ghpvc/?username=ronaldomelo116&style=for-the-badge&label=VISITANTES&color=007ec6)-->
 
