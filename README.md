@@ -24,7 +24,7 @@
 </p>
 
 
-<marquee direction="up" behavior="alternate" height="60" scrollamount="2">
+<marquee direction="up" behavior="alternate" height="80" scrollamount="5">
   <img src="https://komarev.com/ghpvc/?username=ronaldomelo116&style=for-the-badge&label=VISITANTES&color=007ec6" alt="Contador de visitantes" />
 </marquee>
 <!--![Contador de Visitas](https://komarev.com/ghpvc/?username=ronaldomelo116&style=for-the-badge&label=VISITANTES&color=007ec6)-->
