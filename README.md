@@ -28,6 +28,11 @@
   </a>
 </p>
 
+  <a href="https://youtube.com/@RonaldoMelloRN" target="_blank">
+    <img src="https://github.com/ronaldomelo116/ronaldomelo116/blob/main/github-contribution-grid-snake.svg" alt="YouTube">
+  </a>
+
+
 
 <!--![Contador de Visitas](https://komarev.com/ghpvc/?username=ronaldomelo116&style=for-the-badge&label=VISITANTES&color=007ec6)-->
 
