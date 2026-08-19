@@ -5,6 +5,7 @@
 </p>
 
 <br>
+##
 
 <!-- 2. HABILIDADES -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=500&pause=1000&color=FF0E00&background=FFD20000&width=430&lines=%F0%9F%92%BB+Minhas+Habilidades" alt="Typing SVG" /></a>
