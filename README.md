@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=ronaldomelo116&style=for-the-badge&label=VISITANTES&color=007ec6" width="150" alt="Contador de visitantes" />
 </p>
 <br>
-## 2<!-- 2. HABILIDADES -->
+<!-- 2. HABILIDADES -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=500&pause=1000&color=FF0E00&background=FFD20000&width=430&lines=%F0%9F%92%BB+Minhas+Habilidades" alt="Typing SVG" /></a>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
