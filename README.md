@@ -1,12 +1,9 @@
 <!-- 1. BOAS VINDAS E CONTADOR (No Topo) -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=0BFF00&width=435&lines=Bem+vindo+ao+meu+Reposit%C3%B3rio" alt="Typing SVG" /></a>
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=0BFF00&width=435&lines=Bem+vindo+ao+meu+Reposit%C3%B3rio" alt="Typing SVG" /></a>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ronaldomelo116&style=for-the-badge&label=VISITANTES&color=007ec6" width="150" alt="Contador de visitantes" />
 </p>
-
 <br>
-##
-
 <!-- 2. HABILIDADES -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=500&pause=1000&color=FF0E00&background=FFD20000&width=430&lines=%F0%9F%92%BB+Minhas+Habilidades" alt="Typing SVG" /></a>
 <p>
